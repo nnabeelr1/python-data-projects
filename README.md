@@ -42,32 +42,6 @@ Python 3.7+
 Jupyter Notebook or JupyterLab
 ```
 
-### Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn
-```
-
-### Installation & Usage
-
-1. **Clone the repository**:
-```bash
-git clone https://github.com/yourusername/transportation-analysis-project.git
-cd transportation-analysis-project
-```
-
-2. **Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
-
-3. **Launch Jupyter Notebook**:
-```bash
-jupyter notebook analisis_transportasi_jakarta.ipynb
-```
-
-4. **Run all cells** to generate the complete analysis and visualizations
-
 ## 📈 Key Findings & Insights
 
 ### Market Share Distribution (Jan-Sep 2024)
